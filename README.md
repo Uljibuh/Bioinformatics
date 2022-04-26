@@ -1,8 +1,8 @@
 # Bioinformatics
 
 # DNA Sequence classifier
-* data: human genome, chipanzee genome
-* learn hwo to working with DNA Seqeunce
+* data: human genome, chipanzee genome, dog genome
+* learn hwo to working with DNA Seqeunce, 3 way to encode genome sequence.
 * train a machine learning model with human genome
 * percision, recall, F1 socre were used as accuricies.
 
