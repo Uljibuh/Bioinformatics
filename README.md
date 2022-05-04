@@ -6,7 +6,7 @@
 * train a machine learning model with human genome
 * percision, recall, F1 socre were used as accuricies.
 
-# Genomic selection with Neural Network
+# Genomic selection with ANN AND CNN
 * data: wheat genotype, and wheat yield form different field
 * calculating SNP signifincant
 * lasso regression used as bench model
