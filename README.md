@@ -10,5 +10,5 @@
 * data: wheat genotype, and wheat yield form different field
 * calculating SNP signifincant
 * lasso regression used as bench model
-* 3 layers neural network was used
+* 3 layers neural network and 4 layer CNN.
 * pearson correlation was used as accuracy.
