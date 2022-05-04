@@ -12,4 +12,5 @@
 * lasso regression used as bench model
 * 3 layers neural network and 4 layer CNN.
 * pearson correlation was used as accuracy.
-* inspired by the paper "https://www.researchgate.net/publication/334609713_A_Guide_for_Using_Deep_Learning_for_Complex_Trait_Genomic_Prediction"
+* inspired by the paper and reference
+*  "https://www.researchgate.net/publication/334609713_A_Guide_for_Using_Deep_Learning_for_Complex_Trait_Genomic_Prediction"
